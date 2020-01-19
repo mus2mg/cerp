@@ -23,7 +23,8 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              'https://www.w3schools.com/w3css/4/w3.css'
             ],
             "scripts": []
           },
